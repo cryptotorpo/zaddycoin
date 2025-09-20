@@ -53355,11 +53355,11 @@ var PO = (() => {
       }], this.social = [{
         img: "assets/images/svg-icons/social-icons/telegram.svg",
         alt: "Telegram",
-        link: "https://t.me/ZaddyCoinTG"
+        link: "https://t.me/zaddycoin_eth"
       }, {
         img: "assets/images/svg-icons/social-icons/twitter.svg",
         alt: "Twitter",
-        link: "https://x.com/ZaddyCoinX"
+        link: "https://x.com/Zaddycoin_Eth"
       }, {
         img: "assets/images/svg-icons/social-icons/linktree.svg",
         alt: "Twitter",
@@ -53367,11 +53367,11 @@ var PO = (() => {
       }], this.socialmob = [{
         img: "assets/images/svg-icons/social-icons/telegram_box.svg",
         alt: "Telegram",
-        link: "https://t.me/ZaddyCoinTG"
+        link: "https://t.me/zaddycoin_eth"
       }, {
         img: "assets/images/svg-icons/social-icons/twitter_box.svg",
         alt: "Twitter",
-        link: "https://x.com/ZaddyCoinX"
+        link: "https://x.com/Zaddycoin_Eth"
       }, {
         img: "assets/images/svg-icons/social-icons/linktree_box.svg",
         alt: "Linktree",
@@ -53557,11 +53557,11 @@ var OO = (() => {
       }], this.social = [{
         img: "assets/images/svg-icons/social-icons/telegram_box.svg",
         alt: "Telegram",
-        link: "https://t.me/ZaddyCoinTG"
+        link: "https://t.me/zaddycoin_eth"
       }, {
         img: "assets/images/svg-icons/social-icons/twitter_box.svg",
         alt: "Twitter",
-        link: "https://x.com/ZaddyCoinX"
+        link: "https://x.com/Zaddycoin_Eth"
       }, {
         img: "assets/images/svg-icons/social-icons/linktree_box.svg",
         alt: "Linktree",

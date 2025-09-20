@@ -50201,11 +50201,11 @@ var cn = (() => {
           contracts: [U(L({}, Ki), {
             functionName: "poolStakers",
             chainId: G.eth.chainIdInt,
-            args: [this.walletAddress || "0x4c1cd011d05cdb37c62e07bbca00dbe61ddf67a3"]
+            args: [this.walletAddress || "0x0000000000000000000000000000000000000000"]
           }), U(L({}, Ki), {
             functionName: "getRewards",
             chainId: G.eth.chainIdInt,
-            args: [this.walletAddress || "0x4c1cd011d05cdb37c62e07bbca00dbe61ddf67a3"]
+            args: [this.walletAddress || "0x0000000000000000000000000000000000000000"]
           }), U(L({}, Ki), {
             functionName: "lockedTime",
             chainId: G.eth.chainIdInt,
@@ -50277,27 +50277,27 @@ var cn = (() => {
           }), U(L({}, eo), {
             functionName: "userDeposits",
             chainId: G.bsc.chainIdInt,
-            args: [this.walletAddress || "0x4c1cd011d05cdb37c62e07bbca00dbe61ddf67a3"]
+            args: [this.walletAddress || "0x0000000000000000000000000000000000000000"]
           }), U(L({}, ln), {
             functionName: "userDeposits",
             chainId: G.eth.chainIdInt,
-            args: [this.walletAddress || "0x4c1cd011d05cdb37c62e07bbca00dbe61ddf67a3"]
+            args: [this.walletAddress || "0x0000000000000000000000000000000000000000"]
           }), U(L({}, Y2), {
             functionName: "getEthBalance",
             chainId: G.bsc.chainIdInt,
-            args: [this.walletAddress || "0x4c1cd011d05cdb37c62e07bbca00dbe61ddf67a3"]
+            args: [this.walletAddress || "0x0000000000000000000000000000000000000000"]
           }), U(L({}, q2), {
             functionName: "getEthBalance",
             chainId: G.eth.chainIdInt,
-            args: [this.walletAddress || "0x4c1cd011d05cdb37c62e07bbca00dbe61ddf67a3"]
+            args: [this.walletAddress || "0x0000000000000000000000000000000000000000"]
           }), U(L({}, Zb), {
             functionName: "balanceOf",
             chainId: G.bsc.chainIdInt,
-            args: [this.walletAddress || "0x4c1cd011d05cdb37c62e07bbca00dbe61ddf67a3"]
+            args: [this.walletAddress || "0x0000000000000000000000000000000000000000"]
           }), U(L({}, rg), {
             functionName: "balanceOf",
             chainId: G.eth.chainIdInt,
-            args: [this.walletAddress || "0x4c1cd011d05cdb37c62e07bbca00dbe61ddf67a3"]
+            args: [this.walletAddress || "0x0000000000000000000000000000000000000000"]
           }), U(L({}, ln), {
             functionName: "saleToken",
             chainId: G.eth.chainIdInt,
@@ -50305,11 +50305,11 @@ var cn = (() => {
           }), U(L({}, Kb), {
             functionName: "balanceOf",
             chainId: G.bsc.chainIdInt,
-            args: [this.walletAddress || "0x4c1cd011d05cdb37c62e07bbca00dbe61ddf67a3"]
+            args: [this.walletAddress || "0x0000000000000000000000000000000000000000"]
           }), U(L({}, sg), {
             functionName: "balanceOf",
             chainId: G.eth.chainIdInt,
-            args: [this.walletAddress || "0x4c1cd011d05cdb37c62e07bbca00dbe61ddf67a3"]
+            args: [this.walletAddress || "0x0000000000000000000000000000000000000000"]
           }), U(L({}, ln), {
             functionName: "roundDetails",
             chainId: G.eth.chainIdInt,
